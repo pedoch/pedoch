@@ -14,7 +14,7 @@
 <br/><br/>
 
 ## 🪄 Frameworks
-![flask logo]([https://icons8.com/icon/AqYCfGyGXlO7/flask](https://img.icons8.com/color/48/000000/flask.png))
+![flask logo](https://img.icons8.com/color/48/000000/flask.png)
 ![react logo](https://user-images.githubusercontent.com/48949356/192256098-0e399d34-2dae-4b4d-a522-6b54fdeea543.png)
 ![next.js logo](https://img.icons8.com/color/48/000000/nextjs.png)
 ![vue.js logo](https://img.icons8.com/color/48/000000/vue-js.png)
