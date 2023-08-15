@@ -1,7 +1,7 @@
 ## Hi there, my name is Ochuko 👋
 
 ## 🙋‍♂️ About me 
-- 💻 I currently working as a web engineer
+- 💻 I currently work as a software engineer
 - 🌱 I’m currently learning ML and AI with Deeplearnig.AI 
 
 <br/><br/>
