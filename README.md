@@ -48,8 +48,11 @@
 <br/><br/>
 
  ## 🚀 Stats
-![Ochuko's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedoch&show_icons=true&theme=onedark&count_private=true&hide=issues,contribs)
-<img alt="Ochuko's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedoch&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+![Ochuko's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedoch&show_icons=true&theme=darcula&count_private=true&hide=issues,contribs)
+<br></br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedoch&theme=dark&card_height=90)](https://git.io/streak-stats)
+<br></br>
+<img alt="Ochuko's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedoch&langs_count=8&count_private=true&layout=compact&theme=darcula&hide_border=true&bg_color=0D1117" />
 
 <br/><br/>
 
